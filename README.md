@@ -1,4 +1,6 @@
 # -Hackerrank-python-challenges
+These are following queswtions you can solve before proceeding for certification using C++ or Python
+
 A Very Big Sum [url] [10p]
 
 ACM ICPC Team [url] [25p]
