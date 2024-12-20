@@ -24,7 +24,6 @@ if __name__ == '__main__':
     s = int(first_multiple_input[0])
 
     t = int(first_multiple_input[1])
-
     second_multiple_input = input().rstrip().split()
 
     a = int(second_multiple_input[0])
