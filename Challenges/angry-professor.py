@@ -10,7 +10,7 @@ import sys
 # The function accepts following parameters:
 #  1. INTEGER k
 #  2. INTEGER_ARRAY a
-#
+
 def angryProfessor(k, a):
     return "YES" if sum(x <= 0 for x in a) < k else "NO"
 if __name__ == '__main__':
