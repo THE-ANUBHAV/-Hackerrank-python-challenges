@@ -3,13 +3,11 @@ import os
 import random
 import re
 import sys
-
 #
 # Complete the 'acmTeam' function below.
 #
 # The function is expected to return an INTEGER_ARRAY.
 # The function accepts STRING_ARRAY topic as parameter.
-#
 
 def acmTeam(topic):
     most = 0
